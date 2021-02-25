@@ -11,7 +11,7 @@ github_repo: "https://github.com/goodnight404/goodnight404.github.io.git" # you 
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: " 我 们 都 要 幸 福 "
+sidebar-about-description: "我们都会幸福的，因为在任何一个世界的任何一座囚牢，爱都能破门而入。"
 sidebar-avatar: /img/about-someone.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
