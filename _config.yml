@@ -2,7 +2,7 @@
 title: 对不起 我做不到答应你的事
 SEOTitle: 我们再重来一次好不好
 header-img: img/post-bg-desk.jpg
-email: 3034664127@qq.com
+# email: 3034664127@qq.com
 description: 一步又一步做了最烂的决定
 keyword: 我 恨 我 自 己
 url: "https://goodnight404.github.io"          # your host, for absolute URL
@@ -62,11 +62,11 @@ kramdown:
 # Gitalk
 gitalk:
   enable: true    #是否开启Gitalk评论
-  clientID: d18b343dd9c7ca49518a                            #生成的clientID
-  clientSecret: 539e88b8a7feffaddbb553b9c421dfefcbc6eced    #生成的clientSecret
-  repo: klovien.github.io    #仓库名称
-  owner: klovien    #github用户名
-  admin: klovien
+  clientID: ca8fdfc3c86c7927c754                            #生成的clientID
+  clientSecret: fb467f4003606b6cfa722787ba72c9c33e088ebf    #生成的clientSecret
+  repo: goodnight404.github.io    #仓库名称
+  owner: goodnight404    #github用户名
+  admin: goodnight404
   distractionFreeMode: true #是否启用类似FB的阴影遮罩
 
 
